@@ -1,0 +1,20 @@
+#	
+#			www.smartdesignsv.com
+#   		@Derechos de Autor 2015
+#   		Diseño y Programacion por Smart Design SV
+#       	Descripcion: Pagina Web Oficial de la empresa Smart Design SV
+#
+#
+
+ #asegurar htaccess
+ #<Files .htaccess>
+ #order allow,deny
+ #deny from all
+ #</Files>
+
+ErrorDocument 400 http://www.smartdesignsv.com/400.html
+ErrorDocument 403 http://www.smartdesignsv.com/403.html
+ErrorDocument 404 http://www.smartdesignsv.com/404.html
+ErrorDocument 500 http://www.smartdesignsv.com/500.html
+
+#Options All -Indexes
