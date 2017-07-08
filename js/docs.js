@@ -1,3 +1,19 @@
+//    _____                      _     _____            _                _______      __
+//   / ____|                    | |   |  __ \          (_)              / ____\ \    / /
+//  | (___  _ __ ___   __ _ _ __| |_  | |  | | ___  ___ _  __ _ _ __   | (___  \ \  / / 
+//   \___ \| '_ ` _ \ / _` | '__| __| | |  | |/ _ \/ __| |/ _` | '_ \   \___ \  \ \/ /  
+//   ____) | | | | | | (_| | |  | |_  | |__| |  __/\__ \ | (_| | | | |  ____) |  \  /   
+//  |_____/|_| |_| |_|\__,_|_|   \__| |_____/ \___||___/_|\__, |_| |_| |_____/    \/    
+//                                                         __/ |                        
+//                                                        |___/                         
+// 
+/**
+*			  www.smartdesignsv.com
+*   		@Derechos de Autor 2017
+*   		Diseño y Programacion por Smart Design SV
+*       	Descripcion: Pagina Web Oficial de la empresa Smart Design SV
+* 
+*/
 $(function () {
   var all_classes = "";
   var timer = undefined;
